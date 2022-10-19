@@ -1,0 +1,27 @@
+_repo: Ups-en-downs-in-het-Indische-leven_69040
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maurits, Maurits
+    gutenberg_agent_id: '55068'
+    url: http://www.gutenberg.org/2009/agents/55068
+description: ''
+gutenberg_issued: '2022-09-24'
+identifiers:
+  gutenberg: '69040'
+language: nl
+pgterms:marc904: https://books.google.com/books?id=CzkTAAAAMAAJ
+pgterms:marc905: 20180914120524mauritspse
+pgterms:marc906: '1893'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This book was produced from scanned
+  images of public domain material from the Google Books project.)
+publication_note: Netherlands :Loman & Funke,1893.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: „Ups” en „downs” in het Indische leven
+url: http://www.gutenberg.org/ebooks/69040
